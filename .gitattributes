@@ -1,0 +1,7 @@
+# 统一行尾，避免 .sh 在 Linux 上因 CRLF 无法执行
+* text=auto
+*.sh  text eol=lf
+*.md  text eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.psm1 text eol=crlf

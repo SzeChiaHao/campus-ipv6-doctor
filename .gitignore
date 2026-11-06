@@ -1,0 +1,10 @@
+# 本地体检结果
+last-check.txt
+ipv6-*.txt
+*.log
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
